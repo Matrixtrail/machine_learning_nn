@@ -14,6 +14,7 @@ Ce projet présente un exemple d’entraînement d’un modèle de transfer lear
 │   ├── lion/
 │   ├── panda/
 │   └── rhinoceros/
+├── requirement.txt
 ├── dataset.csv
 ├── transfer_learning.py
 └── README.md
@@ -38,7 +39,7 @@ Ce projet présente un exemple d’entraînement d’un modèle de transfer lear
 
 Pour installer les dépendances principales (exemple via pip) :
 ```bash
-pip install torch torchvision matplotlib numpy
+pip install -r requirement.txt
 ```
 
 ---
