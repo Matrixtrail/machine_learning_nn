@@ -48,7 +48,7 @@ pip install torch torchvision matplotlib numpy
 1. Clonez ce dépôt ou téléchargez les sources :
 ```bash
    git clone https://github.com/Matrixtrail/machine_learning_nn.git
-   cd ton_repo
+   cd machine_learning_nn
 ```
 
 2. Préparez le dataset :
